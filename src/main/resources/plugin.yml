@@ -1,0 +1,7 @@
+name: B_WelcomeMessage
+version: '${project.version}'
+main: me.black.b_welcomemessage.B_WelcomeMessage
+api-version: 1.18
+authors: [ Black_ ]
+description: Basic welcome message plugin
+website: https://github.com/JDKBlack/

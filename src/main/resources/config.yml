@@ -1,0 +1,8 @@
+#Use %player% to display name
+#Use § to color
+
+joinmessage: "%player% §5Joined the game"
+quitmessage: "%player% §5Left the server"
+
+titlemessage: "Welcome §5%player%"
+subtitlemessage: "To the server!"
